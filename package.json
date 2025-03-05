@@ -1,21 +1,26 @@
 {
-  "name": "iconscout-search-page",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate"
-  },
-  "dependencies": {
-    "bootstrap": "^4.6.2",
-    "bootstrap-vue": "^2.22.0",
-    "core-js": "^3.25.3",
-    "nuxt": "^2.15.8",
-    "vue": "^2.7.10",
-    "vue-server-renderer": "^2.7.10",
-    "vue-template-compiler": "^2.7.10"
-  },
-  "devDependencies": {}
+    "name": "iconscout-search-page",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "axios": "^1.7.9",
+        "bootstrap": "^4.6.2",
+        "bootstrap-vue": "^2.23.1",
+        "core-js": "^3.25.3",
+        "jquery": "^3.7.1",
+        "nuxt": "^2.18.1",
+        "regenerator-runtime": "^0.14.1",
+        "vue": "^2.7.16",
+        "vue-server-renderer": "^2.2.6",
+        "vue-template-compiler": "^0.1.0"
+    },
+    "prettier": {
+        "tabWidth": 4
+    }
 }
