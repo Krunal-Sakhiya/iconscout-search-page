@@ -1,0 +1,6 @@
+{
+  "prettier.tabWidth": 4,
+  "vue.format.style.initialIndent": true,
+  "vue.format.script.initialIndent": true,
+  "prettier.useTabs": true
+}
